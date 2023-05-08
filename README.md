@@ -11,3 +11,5 @@ average rating
 ### Assignment
 Please refactor this code to a point, where you think, this code looks good. There is no need to hold onto any parts of 
 the code. You can even rewrite it in another language. 
+
+You can check if your refactorings work by running the provided tests. The test must not be altered.
